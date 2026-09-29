@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sogood5925-gif.github.io/sangsik/sitemap.xml
